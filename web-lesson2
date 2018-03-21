@@ -1,0 +1,7 @@
+# BONUS
+
+# add simple auth so when a user tries to access hello world website they have to use a user/pass
+
+# put the user pass below:
+
+# hint (user/pass) can simply be in a text file on disk

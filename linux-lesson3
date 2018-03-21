@@ -1,0 +1,9 @@
+# add a user for yourself that is not root
+
+# add ssh keys for that user so you can login without a password
+
+# allow that user to sudo
+
+# do not allow root to be able to ssh into the system
+
+# no users on the system should allow ssh access with a password

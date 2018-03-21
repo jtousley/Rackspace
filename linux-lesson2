@@ -1,0 +1,5 @@
+# add a message everytime someone logs in
+
+# Tell the user "Welcome to <your name>'s Server!"
+
+# add a cron job that runs once a day at 5:54am to run "updatedb" as the root user

@@ -1,0 +1,5 @@
+# allow all connections to port 80
+
+# the iptables rule should persist reboot
+
+# show how to test this works

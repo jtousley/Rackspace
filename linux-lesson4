@@ -1,0 +1,7 @@
+# show command to display contents of all files in this dir and output them to a single file
+
+# the other files in this dir should not be impacted
+
+# make the new file immutable (show command)
+
+# Use tar to create a tarball of all the files in this dir, it should be compressed

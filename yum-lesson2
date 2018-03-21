@@ -1,0 +1,5 @@
+# install a package that keeps the system date up to date
+
+# configure it so the date on the system is not UTC
+
+# when running "date" command it displays the correct local time

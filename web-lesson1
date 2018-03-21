@@ -1,0 +1,9 @@
+# install a webserver
+
+# Configure it with a simple website
+
+# on the public internet (your browser)
+
+# you should be able to go to http://<servers public ip>
+
+# and see "hello world"

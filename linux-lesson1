@@ -1,0 +1,25 @@
+# show command to display all users logged on:
+
+# show command to display how long the system has been up
+
+# show command to display the nameserver
+
+# what is the nameserver
+
+# show command to display all ips on the system
+
+# show command to display all connections to the system
+
+# show command to display all running processes
+
+# show command to display the amount of used and free memory in megabits
+
+# show command to display the filesystems that are currently mounted
+
+# list file where filesystems are defined and can be auto mounted
+
+# list directory where the network scripts are
+
+# how would you find info about the cpus?
+
+# show command to display what kernel is currently installed and running
